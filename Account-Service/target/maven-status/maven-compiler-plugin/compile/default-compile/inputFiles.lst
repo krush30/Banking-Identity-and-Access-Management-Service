@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\AccountServiceApplication.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\controller\AccountController.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\dto\AccountRequest.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\dto\AccountResponse.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\dto\StatementResponse.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\entity\Account.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\exception\AccountNotFoundException.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\repository\AccountRepository.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\service\AccountService.java
+C:\Users\Asus\Desktop\Banking-spingboot\Account-Service\src\main\java\com\bank\accountservice\service\StatementService.java
